@@ -39,7 +39,7 @@ O principal objetivo deste projeto era praticar os conceitos básicos do React.
 ## 🔥 Como usar
 - É necessário ter o [Node.js](https://nodejs.org/en/) e [npm](https://www.npmjs.com/) instalados
 - Clone esse repositório: `git clone https://github.com/romaSilva/MovieList-React.git`
-- Instale as dependências do projeto, digitando no termintal: `npm install`
+- Instale as dependências do projeto, digitando no terminal: `npm install`
 - Enfim, para rodar a aplicação digite: `npm start`
 ​
 
